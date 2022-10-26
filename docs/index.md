@@ -33,3 +33,7 @@ pip install requirements.txt
 ```
 python app.py
 ```
+
+# Other
+
+[Config file app.py](docs/config.md)
